@@ -1,0 +1,5 @@
+.venv
+.flake8
+lemons-fs/
+results/
+.DS_Store
