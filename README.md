@@ -138,14 +138,10 @@ Tags
 +----------+------------+-----------------+--------+---------------+--------------------+
 |   Name   | Value type | Possible values | Hotkey | Applicable to | Applicable classes |
 +----------+------------+-----------------+--------+---------------+--------------------+
-|  fruit   |    none    |       None      |        |  objectsOnly  |         []         |
-| white-bg |    none    |       None      |        |   imagesOnly  |         []         |
 +----------+------------+-----------------+--------+---------------+--------------------+
 
 Class 'kiwi': geometry='<class 'supervisely.geometry.bitmap.Bitmap'>', color='[255, 0, 0]'
 Class 'lemon': geometry='<class 'supervisely.geometry.bitmap.Bitmap'>', color='[81, 198, 170]'
-Tag 'fruit': color='[53, 127, 141]'
-Tag 'white-bg': color='[98, 234, 105]'
 Number of datasets (aka folders) in project: 1
 
 Item 'IMG_4451.jpeg': image='./lemons-fs/ds1/img/IMG_4451.jpeg', ann='./lemons-fs/ds1/ann/IMG_4451.jpeg.json'
