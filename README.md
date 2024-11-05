@@ -1,6 +1,6 @@
 # Quickstart - iterate over a local Supervisely project using Python SDK
 
-## [Read in Supervisely Developer portal](https://developer.supervise.ly/getting-started/python-sdk-tutorials/iterate-over-a-local-project)
+## [Read in Supervisely Developer portal](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project)
 
 In this article, we will learn how to iterate through a project in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format), which is stored locally on your machine. It is one of the most frequent operations in Superviely Apps and python automation scripts. You will see how easy it is to get all the necessary information from the project, as well as how quickly you can visualize the contents of the project even without internet access.
 
@@ -10,7 +10,7 @@ Everything you need to reproduce [this tutorial is on GitHub](https://github.com
 
 In this guide we will go through the following steps:
 
-\*\*\*\* **[Step 1.](iterate-over-a-local-project.md#demo-project)** Get a [demo project](https://ecosystem.supervise.ly/projects/lemons-annotated) with labeled lemons and kiwis.
+\*\*\*\* **[Step 1.](iterate-over-a-local-project.md#demo-project)** Get a [demo project](https://ecosystem.supervisely.com/projects/lemons-annotated) with labeled lemons and kiwis.
 
 \*\*\*\* **[Step 2.](iterate-over-a-local-project.md#.env-file)** Download the demo project to your local machine in Supervisely format using [Export to Supervisely format](https://ecosystem.supervisely.com/apps/export-to-supervisely-format) app in Supervisely Ecosystem.
 
