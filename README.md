@@ -12,7 +12,7 @@ In this guide we will go through the following steps:
 
 \*\*\*\* **[Step 1.](iterate-over-a-local-project.md#demo-project)** Get a [demo project](https://ecosystem.supervisely.com/projects/lemons-annotated) with labeled lemons and kiwis.
 
-\*\*\*\* **[Step 2.](iterate-over-a-local-project.md#.env-file)** Download the demo project to your local machine in Supervisely format using [Export to Supervisely format](../../../../supervisely-ecosystem/export-to-supervisely-format) app in Supervisely Ecosystem.
+\*\*\*\* **[Step 2.](iterate-over-a-local-project.md#.env-file)** Download the demo project to your local machine in Supervisely format using [Export to Supervisely format](https://ecosystem.supervisely.com/apps/export-to-supervisely-format) app in Supervisely Ecosystem.
 
 \*\*\*\* **[Step 3.](iterate-over-a-local-project.md#python-script)** Run [python script](https://github.com/supervisely-ecosystem/iterate-over-local-project/blob/master/main.py).
 
@@ -24,7 +24,7 @@ If you don't have any projects in Supervisely format on your local machine, go t
 
 ### 2. Download project in Supervisely format
 
-Go to the ecosystem and launch the app [Export to Supervisely format](../../../../supervisely-ecosystem/export-to-supervisely-format). Select the demo project, you created in the previous step (or use any existing project in Supervisely), and download the result archive to your local machine.
+Go to the ecosystem and launch the app [Export to Supervisely format](https://ecosystem.supervisely.com/apps/export-to-supervisely-format). Select the demo project, you created in the previous step (or use any existing project in Supervisely), and download the result archive to your local machine.
 
 ![Run Export to Supervisely format app](https://github-production-user-asset-6210df.s3.amazonaws.com/118521851/249098782-5c08cbc0-6305-4185-8476-571d35cf95ba.png)
 
